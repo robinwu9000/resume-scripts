@@ -9,7 +9,7 @@ JavaScript or that shit.
    from
    eg: monster.rb, dice.rb, indeed.rb, etc
    - if you run into any problems, it's fine just make a
-   note of it and we can try addressing it later
+   note of it and we can try addressing it together
    - make a fake account to test that it works
   + we might need to make another script to run all these
   scripts, but we can worry about it when the time comes
@@ -33,7 +33,7 @@ JavaScript or that shit.
   + print stuff out all the time while you're making it,
   like `pp page, pp form, page.links.each {|l| print
   l.text}, etc.`
-  + run your stuff multiple times, since things might
+  + run your code multiple times, since things might
   change every session. this is very important because a
   link ID may go from `#link-5` to `#link-73`. In these
   cases, you'll have to find a different selector
