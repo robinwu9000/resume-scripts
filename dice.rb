@@ -12,4 +12,7 @@ login_form['password'] = "Trong12345"
 # pp login_form
 page = agent.submit(login_form)
 
-pp page
+# Seems like Dice requires JavaScript for uploading. Guess it's a no go
+# for now.
+# pp page
+
